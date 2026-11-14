@@ -1,0 +1,7 @@
+.DS_Store
+.claude/
+# Material de trabajo con licencias de terceros: no se versiona
+fuentes/
+Referecnias/
+Logo/
+__pycache__/
